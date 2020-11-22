@@ -12,9 +12,9 @@ eCommerce 2021
 7. Deployment: Heroku
 
 Installations:
- IDE Visual Studio Code 
- Google Chrome 
- Node.js
- MongoDB Enterprise Server
- MongoDB Compass
- Postman
+ 1. IDE Visual Studio Code 
+ 2. Google Chrome 
+ 3. Node.js
+ 4. MongoDB Enterprise Server
+ 5. MongoDB Compass
+ 6. Postman
